@@ -1,0 +1,19 @@
+Code-Novel:
+- add comments
+
+Code-Testing:
+- create tests (and jupyter notebooks?)
+- add speed benchmark test
+
+Data:
+- Fill with CMANGOES and Novel encoding
+- Get more data from collaborators
+
+Env:
+- Create yaml
+
+Readme:
+- Create Readme
+
+License:
+- Ask about License
