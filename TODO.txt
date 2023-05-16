@@ -10,7 +10,7 @@ Data:
 - Get more data from collaborators
 
 Env:
-- Create yaml
+- Clean up yaml
 
 Readme:
 - Create Readme
